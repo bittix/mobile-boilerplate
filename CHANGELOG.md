@@ -1,5 +1,6 @@
 == HEAD
 
+* Switch to using FT FastClick polyfill to remove click delays on browsers with touch (#194)
 * Hide URL Bar in iOS7 (#199)
 * Add to homescreen support for Chrome Mobile (#196)
 * Update to Modernizr 2.7.0 (#195)
