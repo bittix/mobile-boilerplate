@@ -1,5 +1,6 @@
 == HEAD
 
+* Add support for Open Web Apps (#197)
 * Hide URL Bar in iOS7 (#199)
 * Add to homescreen support for Chrome Mobile (#196)
 * Update to Modernizr 2.7.0 (#195)
